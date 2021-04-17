@@ -230,6 +230,17 @@ a {
 .install-para {
     font-size: 1.9rem;
 }
+.component {
+    background-color: #333;
+    padding: 1rem 1rem;
+}
+.component a {
+    color: #fff;
+}
+.component a:hover {
+    color: #333;
+}
+
 
 /* alert */
 .alert-side {
